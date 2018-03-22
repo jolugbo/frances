@@ -1,0 +1,23 @@
+{
+  "name": "frances",
+  "version": "1.0.0",
+  "description": "the future just rolled in",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolugbo/frances.git"
+  },
+  "author": "jolugbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolugbo/frances/issues"
+  },
+  "homepage": "https://github.com/jolugbo/frances#readme",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^7.0.0"
+  }
+}
